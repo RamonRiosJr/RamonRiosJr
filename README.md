@@ -1,25 +1,70 @@
-# Hi, I'm Ramon Rios Jr. 👋🏼
+<div align="center">
 
-> Lean Six Sigma Black Belt | Results-driven IT Professional & System Administrator specializing in Odoo implementation, business process automation, & IT infrastructure management.
+Hi, I'm Ramon Rios Jr. 🚀
 
-I am a US-based IT expert, currently transitioning to Colombia, dedicated to helping companies streamline operations and build scalable systems. I leverage a powerful stack of open-source technologies to solve real-world business problems, from ERP customization to end-to-end automation.
+Systems Architect | DevOps Engineer | Full Stack Developer
 
-### 🛠️ My Tech Stack
+<p>
+<em>Based in the US & Colombia 🇨🇴</em>
+</p>
 
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/Odoo-7C7BAD?style=for-the-badge&logo=odoo&logoColor=white)](https://www.odoo.com/)
-[![](https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
-[![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
-[![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-![Caddy](https://img.shields.io/badge/caddy-00ADD8?style=for-the-badge&logo=caddy&logoColor=white)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
----
+<p>
+<b>I bridge the gap between "It works on my machine" and "It runs at scale."</b>
+</p>
 
-### 📊 My GitHub Stats
+<p align="center">
+I am a Results-driven IT Professional & System Administrator transitioning into high-level Software Architecture.
+Currently building <b>Coqui Cloud</b>, I leverage a powerful stack of open-source technologies to solve real-world business problems—from bare-metal virtualization to end-to-end ERP automation.
+</p>
 
-![Ramon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamonRiosJr&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRiosJr&layout=compact&theme=transparent&hide_border=true)
+</div>
+
+🛠️ The Arsenal (Tech Stack)
+
+<details open>
+<summary><b>Infrastructure & Cloud (The Big Iron)</b></summary>
+
+
+
+
+</details>
+
+<details open>
+<summary><b>DevOps & Automation</b></summary>
+
+
+
+
+</details>
+
+<details open>
+<summary><b>Network Security & Enterprise</b></summary>
+
+
+
+
+</details>
+
+<details open>
+<summary><b>Full Stack Development</b></summary>
+
+
+
+
+</details>
+
+📊 My GitHub Stats
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRamonRiosJr%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue" height="165" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRamonRiosJr%26layout%3Dcompact%26theme%3Dtokyonight%26langs_count%3D8%26hide_border%3Dtrue" height="165" alt="languages graph" />
+</div>
+
+<div align="center">
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DRamonRiosJr%26style%3Dflat-square%26color%3Dblue" alt="Profile Views" />
+</div>
