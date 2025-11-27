@@ -1,9 +1,9 @@
 <div align="center">
 
-Hi, I'm Ramon Rios Jr. 🇵🇷 🐸
+**Hi, I'm Ramon Rios Jr. 🇵🇷 🐸
 
 Systems Architect | DevOps Engineer | Full Stack Developer
-
+...
 <p>
 <em>Based in the US 🇺🇸</em>
 </p>
@@ -31,16 +31,11 @@ Currently building <b>Coqui Cloud</b>, I leverage a powerful stack of open-sourc
 
 📊 My GitHub Stats
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRamonRiosJr%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue" height="165" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRamonRiosJr%26layout%3Dcompact%26theme%3Dtokyonight%26langs_count%3D8%26hide_border%3Dtrue" height="165" alt="languages graph" />
-</div>
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRamonRiosJr%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue" alt="Ramon's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRamonRiosJr%26layout%3Dcompact%26theme%3Dtokyonight%26langs_count%3D8%26hide_border%3Dtrue" alt="Top Languages" />
+</p>
 
-<div align="center">
-
-
-
-
-
+<p align="center">
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DRamonRiosJr%26style%3Dflat-square%26color%3Dblue" alt="Profile Views" />
-</div>
+</p>
