@@ -21,37 +21,13 @@ Currently building <b>Coqui Cloud</b>, I leverage a powerful stack of open-sourc
 
 🛠️ The Arsenal (Tech Stack)
 
-<details open>
-<summary><b>Infrastructure & Cloud (The Big Iron)</b></summary>
+☁️ Infrastructure & Cloud (The Big Iron)
 
+⚡ DevOps & Automation
 
+🛡️ Network Security & Enterprise
 
-
-</details>
-
-<details open>
-<summary><b>DevOps & Automation</b></summary>
-
-
-
-
-</details>
-
-<details open>
-<summary><b>Network Security & Enterprise</b></summary>
-
-
-
-
-</details>
-
-<details open>
-<summary><b>Full Stack Development</b></summary>
-
-
-
-
-</details>
+💻 Full Stack Development
 
 📊 My GitHub Stats
 
