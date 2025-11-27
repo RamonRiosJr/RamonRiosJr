@@ -39,3 +39,8 @@ Currently building <b>Coqui Cloud</b>, I leverage a powerful stack of open-sourc
 <p align="center">
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DRamonRiosJr%26style%3Dflat-square%26color%3Dblue" alt="Profile Views" />
 </p>
+
+### 📊 My GitHub Stats
+
+![Ramon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamonRiosJr&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRiosJr&layout=compact&theme=transparent&hide_border=true)
