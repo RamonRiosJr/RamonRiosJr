@@ -1,9 +1,9 @@
 <div align="center">
 
-**Hi, I'm Ramon Rios Jr. 🇵🇷 🐸
+Hi, I'm Ramon Rios Jr. 🇵🇷 🐸
 
 Systems Architect | DevOps Engineer | Full Stack Developer
-...
+
 <p>
 <em>Based in the US 🇺🇸</em>
 </p>
