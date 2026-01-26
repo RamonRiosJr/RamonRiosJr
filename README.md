@@ -12,8 +12,8 @@
 I am a Results-driven IT Professional & System Administrator transitioning into high-level Software Architecture. Currently building <b>Coqui Cloud</b>, I leverage a powerful stack of open-source technologies to solve real-world business problems—from bare-metal virtualization to end-to-end ERP automation.
 </p>
 
-<a href="https://coqui.cloud"><img src="https://img.shields.io/badge/Coqui_Cloud-Business-blue?style=for-the-badge&logo=google-cloud" /></a>
-<a href="https://ramonrios.net"><img src="https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge&logo=firefox" /></a>
+<a href="https://coqui.cloud" target="_blank"><img src="https://img.shields.io/badge/Coqui_Cloud-Business-blue?style=for-the-badge&logo=google-cloud" /></a>
+<a href="https://ramonrios.net" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge&logo=firefox" /></a>
 <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Contact-Email_Me-red?style=for-the-badge&logo=gmail" /></a>
 
 </div>
@@ -36,7 +36,7 @@ I am a Results-driven IT Professional & System Administrator transitioning into 
 
 <br />
 <div align="center">
-  <a href="https://ramonriosjr.github.io/tech-cloud/">
+  <a href="https://ramonriosjr.github.io/tech-cloud/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_View_Interactive_3D_Tech_Cloud-Click_Here-8A2BE2?style=for-the-badge" />
   </a>
 </div>
@@ -56,7 +56,7 @@ I am a Results-driven IT Professional & System Administrator transitioning into 
 
 <div align="center">
 
-[![Ramon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamonRiosJr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ramon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamonRiosJr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRiosJr&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
