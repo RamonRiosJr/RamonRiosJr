@@ -55,11 +55,23 @@ I am a Results-driven IT Professional & System Administrator transitioning into 
 <h3>📊 My GitHub Stats</h3>
 
 <div align="center">
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=RamonRiosJr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRiosJr&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Ramon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamonRiosJr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRiosJr&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=RamonRiosJr&style=flat-square&color=blue)
+<img src="https://komarev.com/ghpvc/?username=RamonRiosJr&style=flat-square&color=blue" />
 
 </div>
