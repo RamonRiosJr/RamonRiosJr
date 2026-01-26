@@ -34,9 +34,16 @@ I am a Results-driven IT Professional & System Administrator transitioning into 
 | :--- | :--- |
 | ![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-Black_Belt-black?style=flat-square) | ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![XML-RPC](https://img.shields.io/badge/XML--RPC-Integration-orange?style=flat-square) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
 
+<br />
+<div align="center">
+  <a href="https://ramonriosjr.github.io/tech-cloud/">
+    <img src="https://img.shields.io/badge/🚀_View_Interactive_3D_Tech_Cloud-Click_Here-8A2BE2?style=for-the-badge" />
+  </a>
+</div>
+
 </td>
 <td width="40%" valign="middle" align="center">
-    <a href="https://ramonrios.net">
+    <a href="https://ramonrios.net" target="_blank">
         <img src="https://ramonrios.net/web/image/1487-6c48b40d/RRNOB.webp" width="100%" alt="Ramon Rios" />
     </a>
 </td>
