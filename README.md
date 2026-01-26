@@ -12,9 +12,10 @@
 I am a Results-driven IT Professional & System Administrator transitioning into high-level Software Architecture. Currently building <b>Coqui Cloud</b>, I leverage a powerful stack of open-source technologies to solve real-world business problems—from bare-metal virtualization to end-to-end ERP automation.
 </p>
 
+<a href="https://ramonrios.net/@tito" target="_blank"><img src="https://img.shields.io/badge/Let's_Connect-vCard-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 <a href="https://coqui.cloud" target="_blank"><img src="https://img.shields.io/badge/Coqui_Cloud-Business-blue?style=for-the-badge&logo=google-cloud" /></a>
 <a href="https://ramonrios.net" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge&logo=firefox" /></a>
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Contact-Email_Me-red?style=for-the-badge&logo=gmail" /></a>
+<a href="mailto:info@coqui.cloud"><img src="https://img.shields.io/badge/Contact-Email_Me-red?style=for-the-badge&logo=gmail" /></a>
 
 </div>
 
