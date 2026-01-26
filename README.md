@@ -4,7 +4,7 @@
 
 ### Systems Architect | DevOps Engineer | Full Stack Developer | Creator | Dreamer 
 
-<p><em>🇵🇷 Boricua, based in the US 🇺🇸</em></p>
+<p><em>🇵🇷  Boricua, based in the US 🇺🇸</em></p>
 
 > **"I bridge the gap between 'It works on my machine' and 'It runs at scale.'"**
 
