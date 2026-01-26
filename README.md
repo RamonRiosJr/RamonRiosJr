@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Ramon Rios Jr. 🇵🇷 🐸
+# Hi, I'm Ramon Rios Jr. 🐸
 
-### Systems Architect | DevOps Engineer | Full Stack Developer
+### Systems Architect | DevOps Engineer | Full Stack Developer | Creator | Dreamer 
 
-<p><em>Based in the US 🇺🇸</em></p>
+<p><em>🇵🇷 Boricua, based in the US 🇺🇸</em></p>
 
 > **"I bridge the gap between 'It works on my machine' and 'It runs at scale.'"**
 
