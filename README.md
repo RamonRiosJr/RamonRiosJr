@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Ramon Rios Jr. 🐸
+# Hi, I'm Ramon Rios Jr. 🇵🇷 🐸
 
-### Systems Architect | DevOps Engineer | Full Stack Developer | Creator | Dreamer 
+### Systems Architect | DevOps Engineer | Full Stack Developer
 
-<p><em>🇵🇷  Boricua, based in the US 🇺🇸</em></p>
+<p><em>Based in the US 🇺🇸</em></p>
 
 > **"I bridge the gap between 'It works on my machine' and 'It runs at scale.'"**
 
@@ -15,7 +15,7 @@ I am a Results-driven IT Professional & System Administrator transitioning into 
 <a href="https://ramonrios.net/@tito" target="_blank"><img src="https://img.shields.io/badge/Let's_Connect-vCard-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 <a href="https://coqui.cloud" target="_blank"><img src="https://img.shields.io/badge/Coqui_Cloud-Business-blue?style=for-the-badge&logo=google-cloud" /></a>
 <a href="https://ramonrios.net" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge&logo=firefox" /></a>
-<a href="mailto:info@coqui.cloud"><img src="https://img.shields.io/badge/Contact-Email_Me-red?style=for-the-badge&logo=gmail" /></a>
+<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Contact-Email_Me-red?style=for-the-badge&logo=gmail" /></a>
 
 </div>
 
@@ -29,11 +29,11 @@ I am a Results-driven IT Professional & System Administrator transitioning into 
 
 | **☁️ Infrastructure & Cloud** | **⚡ DevOps & Automation** |
 | :--- | :--- |
-| ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) <br> ![Caddy](https://img.shields.io/badge/Caddy-00ADD8?style=flat-square&logo=caddy&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) <br> ![Synology](https://img.shields.io/badge/Synology_NAS-B3B3B3?style=flat-square&logo=synology&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/Ubiquiti_UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <br> ![n8n](https://img.shields.io/badge/n8n_Workflow-FF6584?style=flat-square&logo=n8n&logoColor=white) ![MobaXterm](https://img.shields.io/badge/MobaXterm-002F5F?style=flat-square&logo=linux&logoColor=white) <br> ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![SSH](https://img.shields.io/badge/SSH-Access-lightgrey?style=flat-square&logo=webrtc) |
+| ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) <br> ![Caddy](https://img.shields.io/badge/Caddy-00ADD8?style=flat-square&logo=caddy&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) <br> ![Synology](https://img.shields.io/badge/Synology_NAS-B3B3B3?style=flat-square&logo=synology&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/Ubiquiti_UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <br> ![n8n](https://img.shields.io/badge/n8n_Workflow-FF6584?style=flat-square&logo=n8n&logoColor=white) ![MobaXterm](https://img.shields.io/badge/MobaXterm-002F5F?style=flat-square&logo=linux&logoColor=white) <br> ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) <br> ![SSH](https://img.shields.io/badge/SSH-Access-lightgrey?style=flat-square&logo=webrtc) |
 
 | **🛡️ Network Security & Enterprise** | **💻 Full Stack Development** |
 | :--- | :--- |
-| ![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-Black_Belt-black?style=flat-square) | ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![XML-RPC](https://img.shields.io/badge/XML--RPC-Integration-orange?style=flat-square) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) <br> ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=mqtt&logoColor=white) ![Zstandard](https://img.shields.io/badge/zstd_Compression-gray?style=flat-square) |
+| ![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-Black_Belt-black?style=flat-square) | ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white) ![reStructuredText](https://img.shields.io/badge/reStructuredText-5e81ac?style=flat-square) <br> ![XML-RPC](https://img.shields.io/badge/XML--RPC-Integration-orange?style=flat-square) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) <br> ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=mqtt&logoColor=white) ![Zstandard](https://img.shields.io/badge/zstd_Compression-gray?style=flat-square) |
 
 <br />
 <div align="center">
@@ -65,7 +65,7 @@ I am a Results-driven IT Professional & System Administrator transitioning into 
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRiosJr&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRiosJr&layout=compact&theme=tokyonight&langs_count=15&hide_border=true" />
       </a>
     </td>
   </tr>
