@@ -2,8 +2,8 @@
 
 # Hi, I'm Ramon Rios Jr. 🇵🇷 🐸
 
-### Systems Architect | DevOps Engineer
-
+### AI-Integrated Systems Architect | DevOps Engineer | Technical Implementation Engineer | ERP Specialist
+Architected by Ramón Ríos, optimized via AI
 <p><em>Based in the US 🇺🇸</em></p>
 
 > **"I bridge the gap between 'It works on my machine' and 'It runs at scale.'"**
