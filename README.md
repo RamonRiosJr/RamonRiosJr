@@ -8,7 +8,7 @@ Architected by Ramón Ríos, optimized via AI
 <p><em>Based in the US 🇺🇸</em></p>
 <p><img src="https://komarev.com/ghpvc/?username=RamonRiosJr&style=flat-square&color=blue" />
 </p>
-> **"I bridge the gap between 'It works on my machine' and 'It runs at scale.'"**
+> <em>"I bridge the gap between 'It works on my machine' and 'It runs at scale.'"</em>
 
 <p>
 I am a Results-driven IT Professional & System Administrator specializing in high-level Software Architecture and Automation. As the founder of <b>Coqui Cloud</b>, I orchestrate complex open-source ecosystems—from bare-metal virtualization to enterprise-grade ERP automation—leveraging AI to achieve industry-leading speed and scalability.
@@ -27,22 +27,19 @@ I am a Results-driven IT Professional & System Administrator specializing in hig
 <tr>
 <td width="60%" valign="top">
 
-### 🛠️ The Arsenal (Tech Stack)
+### � The Philosophy of the Invisible Adversary
 
-| **☁️ Infrastructure & Cloud** | **⚡ DevOps & Automation** |
-| :--- | :--- |
-| ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) <br> ![Caddy](https://img.shields.io/badge/Caddy-00ADD8?style=flat-square&logo=caddy&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) <br> ![Synology](https://img.shields.io/badge/Synology_NAS-B3B3B3?style=flat-square&logo=synology&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/Ubiquiti_UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <br> ![n8n](https://img.shields.io/badge/n8n_Workflow-FF6584?style=flat-square&logo=n8n&logoColor=white) ![MobaXterm](https://img.shields.io/badge/MobaXterm-002F5F?style=flat-square&logo=linux&logoColor=white) <br> ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) <br> ![SSH](https://img.shields.io/badge/SSH-Access-lightgrey?style=flat-square&logo=webrtc) |
+"I don’t just solve problems; I hunt them."
 
-| **🛡️ Network Security & Enterprise** | **💻 Full Stack Orchestration** |
-| :--- | :--- |
-| ![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-Black_Belt-black?style=flat-square) | ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white) ![reStructuredText](https://img.shields.io/badge/reStructuredText-5e81ac?style=flat-square) <br> ![XML-RPC](https://img.shields.io/badge/XML--RPC-Integration-orange?style=flat-square) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) <br> ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=mqtt&logoColor=white) ![Zstandard](https://img.shields.io/badge/zstd_Compression-gray?style=flat-square) |
+My journey began 25 years ago in a vocational high school, getting my hands dirty with Computer Systems & Repairs. At 15, I became a hacker by accident—not out of malice, but out of a relentless drive to understand the "Digital Blueprint."
 
-<br />
-<div align="center">
-  <a href="https://ramonriosjr.github.io/tech-cloud/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_View_Interactive_3D_Tech_Cloud-Click_Here-8A2BE2?style=for-the-badge" />
-  </a>
-</div>
+Now, celebrating my 40th anniversary, I look back on a quarter-century in the trenches. While others avoid the panic, I crave it. I live for the problems that make you sweat—the ones that keep you up at night—because that is where true intuition is forged. You can't learn this level of architectural strategy from a manual; you earn it through survival.
+
+Today, I leverage AI to move at light speed, but the wisdom comes from 25 years of facing the invisible adversary. I don't just build systems that work; I build systems that endure.
+
+<br>
+
+<a href="https://ramonrios.net/blog/the-digital-blueprint-1/the-invisible-adversary-10"><img src="https://img.shields.io/badge/📖_The_Invisible_Adversary-Read_The_Origin_Story-8A2BE2?style=for-the-badge" alt="Read the Full Story" /></a>
 
 </td>
 <td width="40%" valign="middle" align="center">
@@ -51,6 +48,99 @@ I am a Results-driven IT Professional & System Administrator specializing in hig
     </a>
 </td>
 </tr>
+</table>
+
+<br />
+
+### The Arsenal (Tech Stack)
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+  <table>
+    <tr>
+      <th align="center"><b>☁️ Infrastructure & Cloud</b></th>
+      <th align="center"><b>⚡ DevOps & Automation</b></th>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+        <br>
+        <img src="https://img.shields.io/badge/Caddy-00ADD8?style=flat-square&logo=caddy&logoColor=white" alt="Caddy" />
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+        <br>
+        <img src="https://img.shields.io/badge/Synology_NAS-B3B3B3?style=flat-square&logo=synology&logoColor=white" alt="Synology" />
+        <img src="https://img.shields.io/badge/Ubiquiti_UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white" alt="Ubiquiti" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <br>
+        <img src="https://img.shields.io/badge/n8n_Workflow-FF6584?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+        <img src="https://img.shields.io/badge/MobaXterm-002F5F?style=flat-square&logo=linux&logoColor=white" alt="MobaXterm" />
+        <br>
+        <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+        <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+        <br>
+        <img src="https://img.shields.io/badge/SSH-Access-lightgrey?style=flat-square&logo=webrtc" alt="SSH" />
+      </td>
+    </tr>
+  </table>
+</td>
+<td valign="top" width="50%">
+  <table>
+    <tr>
+      <th align="center"><b>🛡️ Network Security & Enterprise</b></th>
+      <th align="center"><b>💻 Full Stack Orchestration</b></th>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali" />
+        <br>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Lean_Six_Sigma-Black_Belt-black?style=flat-square" alt="Lean Six Sigma" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <br>
+        <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white" alt="Jupyter" />
+        <img src="https://img.shields.io/badge/reStructuredText-5e81ac?style=flat-square" alt="reStructuredText" />
+        <br>
+        <img src="https://img.shields.io/badge/XML--RPC-Integration-orange?style=flat-square" alt="XML-RPC" />
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+        <br>
+        <img src="https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
+        <img src="https://img.shields.io/badge/zstd_Compression-gray?style=flat-square" alt="Zstandard" />
+      </td>
+    </tr>
+  </table>
+</td>
+</tr>
+</table>
+
+<br />
+<div align="center">
+  <a href="https://ramonriosjr.github.io/tech-cloud/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_View_Interactive_3D_Tech_Cloud-Click_Here-8A2BE2?style=for-the-badge" />
+  </a>
+</div>
+
+<hr />
+
+<h3>🤖 The Workflow (Human-AI Synergy)</h3>
+
+<table width="100%">
+  <tr>
+    <td align="left">
+      <p>⊶ <strong>I operate at the intersection of human logic and artificial intelligence.</strong></p>
+      <p>⊶ <strong>Logic & Troubleshooting:</strong> 100% Human. I decrypt complex codebases and identify architectural bottlenecks.</p>
+      <p>⊶ <strong>Implementation:</strong> AI-Augmented. I use top-tier AI models to generate high-speed, industry-standard boilerplate.</p>
+      <p>⊶ <strong>Standards:</strong> I prioritize Redundancy, Scalability, and Safety over manual syntax memorization.</p>
+    </td>
+  </tr>
 </table>
 
 <hr />
@@ -71,11 +161,4 @@ I am a Results-driven IT Professional & System Administrator specializing in hig
   </tr>
 </table>
 </div>
-<h3>🤖 The Workflow (Human-AI Synergy)</h3>
-
-<p>⊶ I operate at the intersection of human logic and artificial intelligence.</p>
-<p>⊶ Logic & Troubleshooting: 100% Human. I decrypt complex codebases and identify architectural bottlenecks.</p>
-<p>⊶ Implementation: AI-Augmented. I use top-tier AI models to generate high-speed, industry-standard boilerplate.</p>
-<p>⊶ Standards: I prioritize Redundancy, Scalability, and Safety over manual syntax memorization.</p>
-
 </div>
