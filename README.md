@@ -2,7 +2,7 @@
 
 # Hi, I'm Ramon Rios Jr. 🇵🇷 🐸
 
-### Systems Architect | DevOps Engineer | Full Stack Developer
+### Systems Architect | DevOps Engineer
 
 <p><em>Based in the US 🇺🇸</em></p>
 
