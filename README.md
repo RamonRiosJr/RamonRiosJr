@@ -4,11 +4,7 @@
 
 ### AI-Integrated Systems Architect | DevOps Engineer | Technical Implementation Engineer | ERP Specialist 
 <p>Lean Six Sigma Black Belt</p>
-
-Architected by Ramón Ríos, optimized via AI
 <p><em>Based in the US 🇺🇸</em></p>
-<p><img src="https://komarev.com/ghpvc/?username=RamonRiosJr&style=flat-square&color=blue" />
-</p>
 <em>"I bridge the gap between 'It works on my machine' and 'It runs at scale.'"</em>
 
 <p>
@@ -149,3 +145,7 @@ Today, I leverage AI to move at light speed, but the wisdom comes from 25 years 
 </table>
 </div>
 </div>
+<div align="center">
+Architected by Ramón Ríos, optimized via AI
+<p><img src="https://komarev.com/ghpvc/?username=RamonRiosJr&style=flat-square&color=blue" />
+</p>
