@@ -157,6 +157,5 @@ I am now focused on mentoring and tech-storytelling. I’m taking 25 years of "b
 </div>
 </div>
 <div align="center">
-Architected by Ramón Ríos, optimized via AI
 <p><img src="https://komarev.com/ghpvc/?username=RamonRiosJr&style=flat-square&color=blue" />
 </p>
