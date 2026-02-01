@@ -24,10 +24,13 @@ I am a Results-driven IT Professional & System Administrator specializing in hig
 <tr>
 <td width="60%" valign="top">
 
-### 🔩 The Philosophy of the Invisible Adversary
+<div>
+    <div align="center">
+<b>🔩 The Philosophy of the Invisible Adversary</b>
 
-"I don’t just solve problems; I hunt them."
+<em>"I don’t just solve problems; I hunt them."</em>
 
+</div>
 My journey began 25 years ago in a vocational high school, getting my hands dirty with Computer Systems & Repairs. At 15, I became a hacker by accident and curiosity—not out of malice, but out of a relentless drive to understand the "Digital Blueprint."
 
 Now, celebrating my 40th anniversary, I look back on a quarter-century in the trenches. While others avoid the panic, I crave it. I live for the problems that make you sweat—the ones that keep you up at night—because that is where true intuition is forged. You can't learn this level of architectural strategy from a manual; you earn it through survival.
