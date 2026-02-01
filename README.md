@@ -36,10 +36,10 @@ My journey began 25 years ago in a vocational high school, getting my hands dirt
 
 Now, celebrating my 40th anniversary, I look back on a quarter-century in the trenches. While others avoid the panic, I crave it. I live for the problems that make you sweat—the ones that keep you up at night—because that is where true intuition is forged. You can't learn this level of architectural strategy from a manual; you earn it through survival.
 
-Today, I leverage AI to move at light speed, but the wisdom comes from 25 years of facing the invisible adversary. I don't just build systems that work; I build systems that endure.
-
+Today, I leverage AI to move at light speed, but the wisdom comes from 25 years of facing the invisible adversary. I don't just build systems that work; I build systems that endure. 
 <br>
 <div align="center">
+    "I’ve found a new mission: mentoring the next generation and documenting my journey. I believe tech is only as good as the community behind it."
 <a href="https://RamonRios.NET/r/40th-Birthday-Github"><img src="https://img.shields.io/badge/📖_The_Invisible_Adversary-Read_The_Origin_Story-8A2BE2?style=for-the-badge" alt="Read the Full Story" /></a>
 
 </td>
