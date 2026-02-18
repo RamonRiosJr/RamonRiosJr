@@ -4,6 +4,8 @@
 
 ### Chief Systems Architect | ERP Strategy & Automation Lead
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=RamonRiosJr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 Lean Six Sigma Black Belt | 25 Years of Pattern Recognition & System Synthesis
 
 <p><em>Based in the US 🇺🇸</em></p>
@@ -155,6 +157,13 @@ I am now focused on mentoring and tech-storytelling. I’m taking 25 years of "b
 </table>
 </div>
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://github.com/RamonRiosJr/RamonRiosJr/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
 <div align="center">
 <p><img src="https://komarev.com/ghpvc/?username=RamonRiosJr&style=flat-square&color=blue" />
 </p>
