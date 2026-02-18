@@ -2,7 +2,7 @@
 
 # Hi, I'm Ramon Rios Jr. 🇵🇷 🐸
 
-### Chief Systems Architect | ERP Strategy & Automation Lead
+### Systems Solution Architect | ERP Strategy & Automation Lead
 
 Lean Six Sigma Black Belt | 25 Years of Pattern Recognition & System Synthesis
 
