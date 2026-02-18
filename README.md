@@ -2,12 +2,8 @@
 
 # Hi, I'm Ramon Rios Jr. 🇵🇷 🐸
 
-<<<<<<< HEAD
-### Chief Systems Architect | ERP Strategy & Automation Lead 
-=======
-### Systems Architect | ERP Strategy & Automation Lead
+### Chief Systems Architect | ERP Strategy & Automation Lead
 
->>>>>>> 1903bf8 (Fix: Replace broken stats with local workflow metrics)
 Lean Six Sigma Black Belt | 25 Years of Pattern Recognition & System Synthesis
 
 <p><em>Based in the US 🇺🇸</em></p>
@@ -39,11 +35,6 @@ I am a Solutions Architect and the founder of <b>Coqui Cloud</b>. My value is bu
 
 </div>
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 1903bf8 (Fix: Replace broken stats with local workflow metrics)
 My journey began 25 years ago in a vocational high school hardware bay. I learned tech from the 'guts' out, focusing on Computer Systems & Repairs. At 15, I became an accidental hacker—driven by a relentless drive to understand the Logic Patterns behind the digital world.
 
 Now, marking my 40th anniversary, I’ve traded raw exploitation for Continuous Improvement. As a Lean Six Sigma Black Belt, I don't need a manual to find the root cause; I rely on 25 years of data points to see exactly where an architecture is weak.
@@ -54,11 +45,7 @@ I don't just "code." I perform hundreds of hours of deep research—analyzing in
 <br>
 <div align="center">
     My Mission:
-<<<<<<< HEAD
-I am now focused on mentoring and tech-storytelling. I’m taking 25 years of "breaking and fixing" and turning it into a roadmap for the next generation of architects. 
-=======
 I am now focused on mentoring and tech-storytelling. I’m taking 25 years of "breaking and fixing" and turning it into a roadmap for the next generation of architects.
->>>>>>> 1903bf8 (Fix: Replace broken stats with local workflow metrics)
     <a href="https://RamonRios.NET/r/40th-Birthday-Github"><img src="https://img.shields.io/badge/📖_The_Invisible_Adversary-Read_The_Origin_Story-8A2BE2?style=for-the-badge" alt="Read the Full Story" /></a>
 
 </td>
