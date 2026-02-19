@@ -2,7 +2,7 @@
 
 # Hi, I'm Ramon Rios Jr. 🇵🇷 🐸
 
-### Chief Systems Architect | ERP Strategy & Automation Lead
+### Systems Solution Architect | ERP Strategy & Automation Lead
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RamonRiosJr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
