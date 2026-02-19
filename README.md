@@ -165,9 +165,9 @@ I am now focused on mentoring and tech-storytelling. I’m taking 25 years of "b
 <br />
 
 <div align="center">
-  <img src="https://github.com/RamonRiosJr/RamonRiosJr/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/RamonRiosJr/RamonRiosJr/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">
-<p><img src="https://komarev.com/ghpvc/?username=RamonRiosJr&style=flat-square&color=blue" />
+<p><img src="https://komarev.com/ghpvc/?username=RamonRiosJr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
