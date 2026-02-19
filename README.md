@@ -2,6 +2,10 @@
 
 # Hi, I'm Ramon Rios Jr. 🇵🇷 🐸
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=RamonRiosJr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</a>
+
 ### Systems Solution Architect | ERP Strategy & Automation Lead
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RamonRiosJr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
