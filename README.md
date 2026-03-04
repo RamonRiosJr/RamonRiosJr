@@ -7,14 +7,7 @@
 ### My GitHub Activity
 Here is a live look at my contribution streaks, favorite languages, and overall statistics.
 
-### My GitHub Activity
-Here is a live look at my contribution streaks, favorite languages, and overall statistics.
-
 [![GitHub Streak for RamonRiosJr](https://streak-stats.demolab.com?user=RamonRiosJr&theme=blueberry&border_radius=64.5&date_format=%5BY.%5Dn.j&card_width=695&background=100%2C6400EB00%2CFF0000)](https://ramonrios.net)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRiosJr&theme=blueberry&layout=compact&border_radius=10)](https://ramonrios.net)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamonRiosJr&theme=blueberry&show_icons=true&border_radius=10)](https://ramonrios.net)
 
 Lean Six Sigma Black Belt | 25 Years of Pattern Recognition & System Synthesis
 
