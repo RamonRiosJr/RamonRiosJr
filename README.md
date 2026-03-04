@@ -4,11 +4,11 @@
 
 ### Systems Solution Architect | ERP Strategy & Automation Lead
 
-[![GitHub Streak for RamonRiosJr](https://streak-stats.demolab.com?user=RamonRiosJr&theme=blueberry&border_radius=64.5&date_format=%5BY.%5Dn.j&card_width=695&background=100%2C6400EB00%2CFF0000)](https://ramonrios.net)
-
 Lean Six Sigma Black Belt | 25 Years of Pattern Recognition & System Synthesis
 
 <p><em>Based in the US 🇺🇸</em></p>
+
+[![GitHub Streak for RamonRiosJr](https://streak-stats.demolab.com?user=RamonRiosJr&theme=blueberry&border_radius=64.5&date_format=%5BY.%5Dn.j&card_width=695&background=100%2C6400EB00%2CFF0000)](https://ramonrios.net)
 
 "I see the patterns others miss. I don't just build systems; I engineer them for architectural integrity."</em>
 
