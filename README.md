@@ -4,9 +4,6 @@
 
 ### Systems Solution Architect | ERP Strategy & Automation Lead
 
-### My GitHub Activity
-Here is a live look at my contribution streaks, favorite languages, and overall statistics.
-
 [![GitHub Streak for RamonRiosJr](https://streak-stats.demolab.com?user=RamonRiosJr&theme=blueberry&border_radius=64.5&date_format=%5BY.%5Dn.j&card_width=695&background=100%2C6400EB00%2CFF0000)](https://ramonrios.net)
 
 Lean Six Sigma Black Belt | 25 Years of Pattern Recognition & System Synthesis
