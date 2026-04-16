@@ -38,7 +38,7 @@ I am a Solutions Architect and the founder of <b>Coqui Cloud</b>. My value is bu
 </div>
 My journey began 25 years ago in a vocational high school hardware bay, learning technology from the bare metal up. By 15, I was deeply immersed in systems analysis—driven by a relentless need to understand the underlying Logic Patterns that govern the digital world.
 
-Today, as a Chief Systems Architect and Lean Six Sigma Black Belt, my approach is rooted in structural resilience and Continuous Improvement. I don't need a manual to find the root cause of a system failure; I rely on a quarter-century of hands-on data points—from soldering components to orchestrating complex enterprise cloud environments like Coqui Cloud—to see exactly where an architecture is weak, and how to make it unbreakable.
+Today, as a Systems Architect and Lean Six Sigma Black Belt, my approach is rooted in structural resilience and Continuous Improvement. I don't need a manual to find the root cause of a system failure; I rely on a quarter-century of hands-on data points—from soldering components to orchestrating complex enterprise cloud environments like Coqui Cloud—to see exactly where an architecture is weak, and how to make it unbreakable.
 
 ⚙️ The Synthesis Engine
 
