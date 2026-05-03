@@ -44,6 +44,7 @@ I am a Solutions Architect and the founder of <b>Coqui Cloud</b>. My value is bu
 <i>"My continuous contribution graph is the telemetry of an automated, AI-orchestrated CI/CD pipeline I built to manage 5 concurrent enterprise repositories. I actively code, branch, and orchestrate daily—having fully automated my own job hunt—so I can focus entirely on scaling architectural output and deploying zero-knowledge infrastructure."</i>
 </p>
 
+<p align="center"><b>Watch Video 👇</b></p>
 <a href="https://www.youtube.com/watch?v=FJ9et_AQqa4" target="_blank">
   <img src="https://img.youtube.com/vi/FJ9et_AQqa4/maxresdefault.jpg" alt="AI Orchestration Showcase" width="695" />
 </a>
