@@ -18,7 +18,7 @@ Lean Six Sigma Black Belt | 25 Years of Pattern Recognition & System Synthesis
 
 <a href="https://ramonrios.net" target="_blank"><img src="https://img.shields.io/badge/RamonRios.NET-00d2ff?style=for-the-badge&logo=web" /></a>
 <a href="https://humanos.foundation" target="_blank"><img src="https://img.shields.io/badge/humanOS.Foundation-ff00cc?style=for-the-badge&logo=web" /></a>
-<a href="https://coqui.cloud" target="_blank"><img src="https://img.shields.io/badge/coqui.cloud-00ff64?style=for-the-badge&logo=googlecloud" /></a>
+<a href="https://coqui.cloud" target="_blank"><img src="https://img.shields.io/badge/coqui.cloud-008A3D?style=for-the-badge&logo=googlecloud" /></a>
 <a href="https://aurahos.io" target="_blank"><img src="https://img.shields.io/badge/AurahOS.io-ffaa00?style=for-the-badge&logo=web" /></a>
 
 <br><br>
