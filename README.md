@@ -415,7 +415,8 @@ Lean Six Sigma Black Belt | 25 Years of Pattern Recognition & System Synthesis
         <div class="thruster-float">
             <div class="card-wrapper">
                 <a href="https://github.com/RamonRiosJr" target="_blank" rel="noopener noreferrer" class="card-image-link">
-                    <img src="https://streak-stats.demolab.com?user=RamonRiosJr&amp;theme=blueberry&amp;border_radius=64.5&amp;date_format=%5BY.%5Dn.j&amp;card_width=695&amp;background=transparent&amp;hide_border=true" alt="GitHub Streak" class="card-image" loading="lazy">
+                    <!-- CHANGED date_format TO M%20j,%20Y FOR HUMAN READABLE DATES (e.g., Jan 29, 2024) -->
+                    <img src="https://streak-stats.demolab.com?user=RamonRiosJr&amp;theme=blueberry&amp;border_radius=64.5&amp;date_format=M%20j,%20Y&amp;card_width=695&amp;background=transparent&amp;hide_border=true" alt="GitHub Streak" class="card-image" loading="lazy">
                 </a>
             </div>
             
