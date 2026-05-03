@@ -26,7 +26,7 @@ Lean Six Sigma Black Belt | 25 Years of Pattern Recognition & System Synthesis
 ### 🔵 Live Enterprise Telemetry & Deployments
 
 <a href="https://github.com/RamonRiosJr" target="_blank">
-  <img src="https://streak-stats.demolab.com?user=RamonRiosJr&theme=blueberry&border_radius=64.5&date_format=M%20j,%20Y&card_width=695&background=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=RamonRiosJr&theme=blueberry&border_radius=64.5&date_format=M%20j,%20Y&card_width=695&background=transparent&hide_border=true&fire=FF5722&ring=FF9800" alt="GitHub Streak" />
 </a>
 <br>
 <a href="https://github.com/RamonRiosJr/humanos.foundation" target="_blank">
