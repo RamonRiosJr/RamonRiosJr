@@ -8,9 +8,442 @@ Lean Six Sigma Black Belt | 25 Years of Pattern Recognition & System Synthesis
 
 <p><em>Based in the US 🇺🇸</em></p>
 
-[![GitHub Streak for RamonRiosJr](https://streak-stats.demolab.com?user=RamonRiosJr&theme=blueberry&border_radius=64.5&date_format=%5BY.%5Dn.j&card_width=695&background=100%2C6400EB00%2CFF0000)](https://ramonrios.net)
+### 🚀 Core Competencies (ATS Optimization)
+**Distributed Cloud Architecture** • **Bare-Metal & Hybrid Infrastructure (Proxmox, Ubuntu)** • **DevOps & CI/CD** • **Enterprise ERP Scaling** • **Lean Six Sigma (Black Belt)** • **Full-Stack Orchestration (Python, C++)** • **Zero-Knowledge Security**
 
-"I see the patterns others miss. I don't just build systems; I engineer them for architectural integrity."</em>
+<style>
+    /* Aggressive transparency to fight Odoo's theme injections */
+    .coqui-streak-widget,
+    .coqui-streak-widget div,
+    .coqui-streak-widget a,
+    .coqui-streak-widget p,
+    .coqui-streak-widget span {
+        background-color: transparent !important;
+    }
+
+    .coqui-streak-widget {
+        color: #ffffff;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0 auto;
+        padding: 40px 20px 80px 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+
+    /* =========================================
+       ARCHITECT VETERAN BADGE
+       ========================================= */
+    .coqui-streak-widget .architect-tag {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        margin-bottom: 25px;
+        padding: 6px 16px;
+        background: rgba(255, 170, 0, 0.05) !important;
+        border: 1px solid rgba(255, 170, 0, 0.3) !important;
+        border-radius: 4px;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 0.75rem;
+        color: #ffaa00 !important;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        box-shadow: 0 0 10px rgba(255, 170, 0, 0.1);
+        position: relative;
+        z-index: 10;
+    }
+
+    .coqui-streak-widget .architect-tag::before {
+        content: '';
+        width: 6px;
+        height: 6px;
+        background: #ffaa00;
+        border-radius: 50%;
+        box-shadow: 0 0 8px #ffaa00;
+        animation: pulse-dot 2s infinite;
+    }
+
+    /* =========================================
+       TOP NAVIGATION BUTTONS
+       ========================================= */
+    .coqui-streak-widget .button-group {
+        display: flex;
+        gap: 15px;
+        margin-bottom: 40px;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .coqui-streak-widget .top-button {
+        display: inline-block;
+        padding: 10px 24px;
+        border-radius: 30px;
+        font-size: 0.9rem;
+        font-weight: 600;
+        letter-spacing: 1.5px;
+        transition: all 0.3s ease;
+        position: relative;
+        z-index: 10;
+        text-decoration: none !important;
+        backdrop-filter: blur(8px) !important;
+        -webkit-backdrop-filter: blur(8px) !important;
+    }
+
+    /* BLUE (RamonRios.NET) */
+    .coqui-streak-widget .btn-blue {
+        background: rgba(0, 85, 255, 0.1) !important;
+        border: 1px solid rgba(0, 210, 255, 0.4) !important;
+        color: #00d2ff !important;
+        box-shadow: 0 0 15px rgba(0, 85, 255, 0.2);
+    }
+    .coqui-streak-widget .btn-blue:hover {
+        background: rgba(0, 210, 255, 0.2) !important;
+        border-color: #00d2ff !important;
+        box-shadow: 0 0 25px rgba(0, 210, 255, 0.4);
+        transform: translateY(-2px);
+        color: #ffffff !important;
+    }
+
+    /* PURPLE (humanOS.Foundation) */
+    .coqui-streak-widget .btn-purple {
+        background: rgba(122, 0, 255, 0.1) !important;
+        border: 1px solid rgba(255, 0, 204, 0.4) !important;
+        color: #ff00cc !important;
+        box-shadow: 0 0 15px rgba(122, 0, 255, 0.2);
+    }
+    .coqui-streak-widget .btn-purple:hover {
+        background: rgba(255, 0, 204, 0.2) !important;
+        border-color: #ff00cc !important;
+        box-shadow: 0 0 25px rgba(255, 0, 204, 0.4);
+        transform: translateY(-2px);
+        color: #ffffff !important;
+    }
+
+    /* GREEN (coqui.cloud) */
+    .coqui-streak-widget .btn-green {
+        background: rgba(0, 200, 83, 0.1) !important;
+        border: 1px solid rgba(0, 255, 100, 0.4) !important;
+        color: #00ff64 !important;
+        box-shadow: 0 0 15px rgba(0, 200, 83, 0.2);
+    }
+    .coqui-streak-widget .btn-green:hover {
+        background: rgba(0, 255, 100, 0.2) !important;
+        border-color: #00ff64 !important;
+        box-shadow: 0 0 25px rgba(0, 255, 100, 0.4);
+        transform: translateY(-2px);
+        color: #ffffff !important;
+    }
+
+    /* AMBER (AurahOS.io) */
+    .coqui-streak-widget .btn-amber {
+        background: rgba(255, 170, 0, 0.1) !important;
+        border: 1px solid rgba(255, 170, 0, 0.4) !important;
+        color: #ffaa00 !important;
+        box-shadow: 0 0 15px rgba(255, 170, 0, 0.2);
+    }
+    .coqui-streak-widget .btn-amber:hover {
+        background: rgba(255, 170, 0, 0.2) !important;
+        border-color: #ffaa00 !important;
+        box-shadow: 0 0 25px rgba(255, 170, 0, 0.4);
+        transform: translateY(-2px);
+        color: #ffffff !important;
+    }
+
+    .coqui-streak-widget .section-title {
+        text-align: center;
+        margin-bottom: 30px;
+        position: relative;
+        z-index: 10;
+    }
+    
+    .coqui-streak-widget .section-title h3 { 
+        margin: 0 0 8px 0; 
+        font-size: 1.6rem; 
+        letter-spacing: 1px; 
+        color: #e6edf3; 
+    }
+    
+    /* The link wrapper that handles the floating animation */
+    .coqui-streak-widget .thruster-float {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        animation: float-coqui 5s ease-in-out infinite;
+        position: relative;
+    }
+
+    /* =========================================
+       MAIN THRUSTER BUBBLE
+       ========================================= */
+    .coqui-streak-widget .card-wrapper {
+        display: inline-block; 
+        padding: 4px; 
+        border-radius: 68px !important; 
+        position: relative;
+        z-index: 5; /* Keep this above the badge */
+        background: linear-gradient(180deg, #161b22 0%, #0055ff 50%, #00d2ff 100%) !important;
+        overflow: hidden !important; 
+    }
+
+    .coqui-streak-widget .card-image-link {
+        display: block !important;
+        border-radius: 64.5px !important;
+    }
+
+    .coqui-streak-widget .card-image {
+        display: block; 
+        border-radius: 64.5px !important; 
+        max-width: 100%; 
+        height: auto;
+        position: relative;
+        z-index: 2;
+        background: rgba(5, 13, 26, 0.3) !important; 
+        backdrop-filter: blur(12px) !important;
+        -webkit-backdrop-filter: blur(12px) !important;
+        border: none;
+    }
+
+    /* Holographic Scanline Overlay - Cyan */
+    .coqui-streak-widget .card-wrapper::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 10px;
+        background: rgba(0, 210, 255, 0.5);
+        box-shadow: 0 0 15px 5px rgba(0, 210, 255, 0.4);
+        z-index: 3;
+        pointer-events: none;
+        animation: scanline 4s linear infinite;
+        border-radius: 50%;
+    }
+
+    @keyframes scanline {
+        0% { top: -10%; opacity: 0; }
+        10% { opacity: 1; }
+        90% { opacity: 1; }
+        100% { top: 110%; opacity: 0; }
+    }
+
+    /* Float and Glow Animation - Blue/Cyan Glows */
+    @keyframes float-coqui {
+        0%, 100% {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 20px rgba(0, 85, 255, 0.3);
+        }
+        50% {
+            transform: translateY(-25px);
+            box-shadow: 0 30px 50px rgba(0, 210, 255, 0.5), 0 50px 90px rgba(0, 85, 255, 0.3);
+        }
+    }
+
+    /* =========================================
+       STRUCTURAL ADD-ON BADGE (humanOS)
+       ========================================= */
+    .coqui-streak-widget .telemetry-badge {
+        /* Negative margin pulls the badge UP so it tucks under the main bubble */
+        margin-top: -25px; 
+        /* Extra padding on top to account for the overlap */
+        padding: 35px 30px 12px 30px; 
+        border-radius: 0 0 25px 25px !important; /* Flat top, rounded bottom */
+        border: 2px solid rgba(0, 210, 255, 0.4) !important;
+        border-top: none !important; /* Removes border where it meets the bubble */
+        
+        position: relative;
+        z-index: 1; /* Places the badge behind the main bubble */
+        
+        font-size: 0.85rem;
+        letter-spacing: 1.5px;
+        color: #8b949e !important;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        box-shadow: 0 10px 15px rgba(0,0,0,0.5);
+        text-decoration: none !important;
+        transition: all 0.3s ease;
+        
+        /* Glass effect blending with bottom of bubble */
+        background: linear-gradient(180deg, rgba(0, 85, 255, 0.1) 0%, rgba(13, 17, 23, 0.9) 100%) !important;
+        backdrop-filter: blur(10px) !important;
+        -webkit-backdrop-filter: blur(10px) !important;
+    }
+
+    .coqui-streak-widget .telemetry-badge:hover {
+        background: linear-gradient(180deg, rgba(0, 210, 255, 0.2) 0%, rgba(13, 17, 23, 0.95) 100%) !important;
+        border-color: rgba(0, 210, 255, 0.8) !important;
+        color: #ffffff !important;
+        box-shadow: 0 15px 25px rgba(0, 210, 255, 0.3);
+    }
+
+    /* CPU Equalizer Animation inside Badge */
+    .coqui-streak-widget .cpu-equalizer {
+        display: flex;
+        align-items: flex-end;
+        gap: 2px;
+        height: 12px;
+        margin-left: 5px;
+    }
+    
+    .coqui-streak-widget .cpu-bar {
+        width: 3px;
+        background: #00d2ff;
+        border-radius: 1px;
+        animation: eq-bounce 1s infinite ease-in-out;
+    }
+    
+    .coqui-streak-widget .cpu-bar:nth-child(1) { animation-delay: 0.0s; height: 60%; }
+    .coqui-streak-widget .cpu-bar:nth-child(2) { animation-delay: 0.2s; height: 100%; background: #00ff64;}
+    .coqui-streak-widget .cpu-bar:nth-child(3) { animation-delay: 0.4s; height: 40%; }
+    .coqui-streak-widget .cpu-bar:nth-child(4) { animation-delay: 0.6s; height: 80%; }
+
+    @keyframes eq-bounce {
+        0%, 100% { transform: scaleY(0.5); }
+        50% { transform: scaleY(1); }
+    }
+
+    /* =========================================
+       MOBAXTERM LIVE SSH TERMINAL
+       ========================================= */
+    .coqui-streak-widget .moba-terminal {
+        margin-top: 50px;
+        width: 100%;
+        max-width: 695px;
+        background: rgba(5, 8, 15, 0.85) !important;
+        border: 1px solid rgba(0, 210, 255, 0.2) !important;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 15px 35px rgba(0, 0, 0, 0.6), 0 0 20px rgba(0, 85, 255, 0.1);
+        backdrop-filter: blur(10px) !important;
+        -webkit-backdrop-filter: blur(10px) !important;
+    }
+
+    .coqui-streak-widget .moba-header {
+        background: rgba(22, 27, 34, 0.9) !important;
+        padding: 8px 15px;
+        font-family: 'Segoe UI', Tahoma, sans-serif;
+        font-size: 0.75rem;
+        color: #8b949e !important;
+        display: flex;
+        align-items: center;
+        border-bottom: 1px solid rgba(255,255,255,0.05) !important;
+    }
+
+    .coqui-streak-widget .moba-dots {
+        display: flex;
+        gap: 6px;
+        margin-right: 15px;
+    }
+
+    .coqui-streak-widget .moba-dots span {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+    }
+    .coqui-streak-widget .moba-dots span:nth-child(1) { background: #ff5f56 !important; }
+    .coqui-streak-widget .moba-dots span:nth-child(2) { background: #ffbd2e !important; }
+    .coqui-streak-widget .moba-dots span:nth-child(3) { background: #27c93f !important; }
+
+    .coqui-streak-widget .moba-body {
+        padding: 15px;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 0.85rem;
+        line-height: 1.6;
+        color: #00ff64 !important;
+        text-align: left;
+    }
+
+    /* Terminal Typing Animation */
+    .coqui-streak-widget .moba-line {
+        display: block;
+        white-space: nowrap;
+        overflow: hidden;
+        border-right: 2px solid transparent; /* The cursor */
+        width: 0;
+    }
+
+    .coqui-streak-widget .moba-line-1 { animation: typeLine 1.5s steps(40, end) 0.5s forwards; }
+    .coqui-streak-widget .moba-line-2 { animation: typeLine 1s steps(40, end) 2s forwards; }
+    .coqui-streak-widget .moba-line-3 { animation: typeLine 2s steps(40, end) 3.2s forwards; }
+    .coqui-streak-widget .moba-line-4 { animation: typeLine 1.5s steps(40, end) 5.5s forwards, cursorBlink .75s step-end infinite 7s; border-right-color: #00ff64; }
+
+    .coqui-streak-widget .moba-cyan { color: #00d2ff !important; }
+    .coqui-streak-widget .moba-gray { color: #8b949e !important; }
+
+    @keyframes typeLine {
+        from { width: 0; }
+        to { width: 100%; border-right-color: transparent; }
+    }
+
+    @keyframes cursorBlink {
+        from, to { border-right-color: transparent; }
+        50% { border-right-color: #00ff64; }
+    }
+</style>
+
+
+<div class="coqui-streak-widget">
+
+    <!-- Architect Veteran Status Badge -->
+    <div class="architect-tag">
+        SYSTEMS ARCHITECTURE: HARDWARE BAREBONE TO AGENTIC AI
+    </div>
+
+    <!-- Top Navigation Buttons -->
+    <div class="button-group">
+        <a href="https://ramonrios.net" target="_blank" class="top-button btn-blue">
+            RamonRios.NET
+        </a>
+        <a href="https://humanos.foundation" target="_blank" class="top-button btn-purple">
+            humanOS.Foundation
+        </a>
+        <a href="https://coqui.cloud" target="_blank" class="top-button btn-green">
+            coqui.cloud
+        </a>
+        <a href="https://aurahos.io" target="_blank" class="top-button btn-amber">
+            AurahOS.io
+        </a>
+    </div>
+
+    <div>
+        <div class="section-title">
+            <h3>🔵 Live Enterprise Telemetry &amp; Deployments</h3>
+        </div>
+        
+        <div class="thruster-float">
+            <div class="card-wrapper">
+                <a href="https://github.com/RamonRiosJr" target="_blank" rel="noopener noreferrer" class="card-image-link">
+                    <img src="https://streak-stats.demolab.com?user=RamonRiosJr&amp;theme=blueberry&amp;border_radius=64.5&amp;date_format=%5BY.%5Dn.j&amp;card_width=695&amp;background=transparent&amp;hide_border=true" alt="GitHub Streak" class="card-image" loading="lazy">
+                </a>
+            </div>
+            
+            <!-- Structural Add-On Badge with CPU Equalizer -->
+            <a href="https://humanos.foundation/" target="_blank" class="telemetry-badge">
+                <div class="cpu-equalizer">
+                    <div class="cpu-bar"></div><div class="cpu-bar"></div><div class="cpu-bar"></div><div class="cpu-bar"></div>
+                </div>
+                MISSION: humanOS : SYSTEM ACTIVE
+            </a>
+        </div>
+    </div>
+
+    <!-- MOBAXTERM LIVE SSH TERMINAL HUD -->
+    <div class="moba-terminal">
+        <div class="moba-header">
+            <div class="moba-dots"><span></span><span></span><span></span></div>
+            MobaXterm Professional - SSH Orchestration Session
+        </div>
+        <div class="moba-body">
+            <span class="moba-line moba-line-1"><span class="moba-cyan">sysadmin@coqui-core</span>:~$ ssh -p 2200 architect@secure-node.local</span>
+            <span class="moba-line moba-line-2"><span class="moba-gray">[Authenticating via RSA Key...]</span> Access Granted.</span>
+            <span class="moba-line moba-line-3"><span class="moba-cyan">architect@Utility-Node</span>:~$ ping Enterprise-Cluster (10.0.x.x)</span>
+            <span class="moba-line moba-line-4">64 bytes from 10.0.x.x: icmp_seq=1 ttl=64 time=0.032 ms. Cluster HEALTHY_</span>
+        </div>
+    </div>
+
+</div>
 
 <p>
 I am a Solutions Architect and the founder of <b>Coqui Cloud</b>. My value is built on a quarter-century of <b>Systems Pattern Recognition</b>. By merging <b>Lean Six Sigma discipline</b> with <b>obsessive technical research</b>, I transform complex chaos into high-redundancy, waste-free environments.
@@ -32,32 +465,20 @@ I am a Solutions Architect and the founder of <b>Coqui Cloud</b>. My value is bu
 <div>
     <div align="center">
 <b>📜 The Philosophy: Logic Over Syntax</b>
-
-<em>"I hunt 🔩problems—then I optimize them out of existence.""</em>
-
 </div>
-My journey began 25 years ago in a vocational high school hardware bay, learning technology from the bare metal up. By 15, I was deeply immersed in systems analysis—driven by a relentless need to understand the underlying Logic Patterns that govern the digital world.
+<br>
+<em>"I don't simply read code; I feel the logic like a physical pattern. I take an architecture like a basketball—I grab it, bounce it back and forth, feel the weight of it. I trace the seams, the tiny texture shapes, feeling for the weak points. That's how I see technology. I don't just build systems; I engineer them for unbreakable integrity."</em>
+<br><br>
+My value is built on a quarter-century of <b>Systems Pattern Recognition</b>. By merging Lean Six Sigma discipline with relentless technical synthesis, I transform chaotic legacy systems into high-redundancy, waste-free, scalable environments.
+<br><br>
+<b>⚙️ The Execution (Scale & Resilience)</b>
+<ul>
+  <li><b>Pattern Recognition:</b> I rely on 25 years of hands-on data points—from bare-metal hardware bays to orchestrating highly distributed enterprise cloud clusters—to spot root causes that traditional methods miss.</li>
+  <li><b>Structural Resilience:</b> I don't build fragile prototypes. While others rush to push messy code, I architect the "Master Version." The result is highly redundant, enterprise-grade data flow.</li>
+  <li><b>Mission Critical:</b> Directing 100% of this expertise toward rebuilding Healthcare Architecture via <b>humanOS</b>—a unified, zero-knowledge, local-first data layer designed to dismantle dangerous EHR silos.</li>
+</ul>
 
-Today, as a Systems Architect and Lean Six Sigma Black Belt, my approach is rooted in structural resilience and Continuous Improvement. I don't need a manual to find the root cause of a system failure; I rely on a quarter-century of hands-on data points—from soldering components to orchestrating complex enterprise cloud environments like Coqui Cloud—to see exactly where an architecture is weak, and how to make it unbreakable.
-
-⚙️ The Synthesis Engine
-
-I don't build fragile prototypes. My engineering process requires hundreds of hours of deep research—analyzing industry standards, security protocols, and edge cases—to architect the "Master Version" of a platform.
-
-While others rush to push messy code, I spend my time refining the logic and data flow. The result is clean, highly redundant, enterprise-grade architecture that is built to endure.
-
-🚀 My Mission: Rebuilding Healthcare Architecture
-
-For 25 years, I've managed high-end enterprise technology, cloud computing, and complex API integrations. Now, I am directing 100% of that expertise toward solving the greatest architectural nightmare of our generation: Medical Electronic Health Records (EHRs).
-
-Through the Humanos Foundation, I am building hOS (The Human Operating System).
-
-hOS is a unified, local-first data layer designed to structure a patient's continuous lived experience into a sovereign clinical record. I am taking decades of enterprise IT experience to dismantle dangerous data silos, ensuring healthcare data remains private, encrypted property, and bridging the gap between a patient's daily truth and the hospital system.
-
-The system only listens when the truth is unignorable.
-
-📫 Connect with the movement: humanos.foundation | 💼 Enterprise IT: Coqui Cloud
-
+📫 <b>Connect with the movement:</b> <a href="https://humanos.foundation">humanos.foundation</a> | 💼 <b>Enterprise IT:</b> <a href="https://coqui.cloud">Coqui Cloud</a>
 <br>
 <div align="center">
     <a href="https://RamonRios.NET/r/40th-Birthday-Github"><img src="https://img.shields.io/badge/📖_The_Invisible_Adversary-Read_The_Origin_Story-8A2BE2?style=for-the-badge" alt="Read the Full Story" /></a>
@@ -142,10 +563,10 @@ The system only listens when the truth is unignorable.
 <table width="100%">
   <tr>
     <td align="left">
-      <p>⊶ <strong>The Intersection: I operate at the intersection of veteran systems logic and high-velocity artificial intelligence.</strong></p>
-      <p>⊶ <strong>Logic & Troubleshooting:</strong> I leverage 25 years of high-fidelity pattern recognition to identify root causes and architectural bottlenecks that traditional methods miss.</p>
-      <p>⊶ <strong>Deep Synthesis & Implementation: I perform exhaustive research on industry standards and use cases, using AI as a force multiplier to generate clean, high-speed output while maintaining total architectural control.</p>
-      <p>⊶ <strong>Refinement & Excellence:</strong> I apply Lean Six Sigma discipline to ensure every solution is waste-free, redundant, and engineered for long-term survival rather than just syntax memorization.</p>
+      <p>⊶ <strong>The Intersection:</strong> Operating exactly at the convergence of veteran systems logic and high-velocity AI.</p>
+      <p>⊶ <strong>Architectural Troubleshooting:</strong> Leveraging 25 years of high-fidelity pattern recognition to isolate architectural bottlenecks instantly.</p>
+      <p>⊶ <strong>Deep Synthesis:</strong> Using AI as a force multiplier to generate clean, high-speed output while retaining absolute architectural and structural control.</p>
+      <p>⊶ <strong>Lean Six Sigma Refinement:</strong> Ensuring every deployed solution is mathematically waste-free, highly redundant, and engineered for long-term enterprise survival.</p>
     </td>
   </tr>
 </table>
@@ -172,9 +593,7 @@ The system only listens when the truth is unignorable.
 
 <br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RamonRiosJr/RamonRiosJr/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+
 
 <div align="center">
 <p><img src="https://komarev.com/ghpvc/?username=RamonRiosJr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
