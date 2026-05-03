@@ -37,13 +37,7 @@ Lean Six Sigma Black Belt | 25 Years of Pattern Recognition & System Synthesis
 
 <br>
 
-**MobaXterm Professional - SSH Orchestration Session**
-```bash
-sysadmin@coqui-core:~$ ssh -p 2200 architect@secure-node.local
-[Authenticating via RSA Key...] Access Granted.
-architect@Utility-Node:~$ ping Enterprise-Cluster (10.0.x.x)
-64 bytes from 10.0.x.x: icmp_seq=1 ttl=64 time=0.032 ms. Cluster HEALTHY_
-```
+
 
 <p>
 I am a Solutions Architect and the founder of <b>Coqui Cloud</b>. My value is built on a quarter-century of <b>Systems Pattern Recognition</b>. By merging <b>Lean Six Sigma discipline</b> with <b>obsessive technical research</b>, I transform complex chaos into high-redundancy, waste-free environments.
