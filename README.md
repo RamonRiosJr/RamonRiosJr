@@ -39,8 +39,9 @@ Lean Six Sigma Black Belt | 25 Years of Pattern Recognition & System Synthesis
 
 
 
-<p>
-I am a Solutions Architect and the founder of <b>Coqui Cloud</b>. My value is built on a quarter-century of <b>Systems Pattern Recognition</b>. By merging <b>Lean Six Sigma discipline</b> with <b>obsessive technical research</b>, I transform complex chaos into high-redundancy, waste-free environments.
+<p align="center">
+I am a Solutions Architect and the founder of <b>Coqui Cloud</b>. My value is built on a quarter-century of <b>Systems Pattern Recognition</b>. By merging <b>Lean Six Sigma discipline</b> with <b>obsessive technical research</b>, I transform complex chaos into high-redundancy, waste-free environments.<br><br>
+<i>"My continuous contribution graph is the telemetry of an automated, AI-orchestrated CI/CD pipeline I built to manage 5 concurrent enterprise repositories. I actively code, branch, and orchestrate daily—having fully automated my own job hunt—so I can focus entirely on scaling architectural output and deploying zero-knowledge infrastructure."</i>
 </p>
 
 <a href="https://ramonrios.net/@tito" target="_blank"><img src="https://img.shields.io/badge/Let's_Connect-vCard-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white" /></a>
