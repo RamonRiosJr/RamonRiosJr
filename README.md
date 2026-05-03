@@ -44,6 +44,12 @@ I am a Solutions Architect and the founder of <b>Coqui Cloud</b>. My value is bu
 <i>"My continuous contribution graph is the telemetry of an automated, AI-orchestrated CI/CD pipeline I built to manage 5 concurrent enterprise repositories. I actively code, branch, and orchestrate daily—having fully automated my own job hunt—so I can focus entirely on scaling architectural output and deploying zero-knowledge infrastructure."</i>
 </p>
 
+<a href="https://www.youtube.com/watch?v=FJ9et_AQqa4" target="_blank">
+  <img src="https://img.youtube.com/vi/FJ9et_AQqa4/maxresdefault.jpg" alt="AI Orchestration Showcase" width="695" />
+</a>
+
+<br><br>
+
 <a href="https://ramonrios.net/@tito" target="_blank"><img src="https://img.shields.io/badge/Let's_Connect-vCard-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 <a href="https://coqui.cloud" target="_blank"><img src="https://img.shields.io/badge/Coqui_Cloud-Business-blue?style=for-the-badge&logo=google-cloud" /></a>
 <a href="https://ramonrios.net" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge&logo=firefox" /></a>
